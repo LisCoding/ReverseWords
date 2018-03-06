@@ -11,6 +11,7 @@ namespace ReverseWords
         static void Main(string[] args)
         {
             Console.WriteLine("Hello there");
+            Console.WriteLine("Hello from GitHub");
         }
     }
 }
