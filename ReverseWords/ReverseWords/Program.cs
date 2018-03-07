@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,5 +14,10 @@ namespace ReverseWords
             Console.WriteLine("Hello there");
             Console.WriteLine("Hello from GitHub");
         }
+        //add two numbers
+        static int addition (int a, int b){
+            return a + b 
+        }
+            
     }
 }
