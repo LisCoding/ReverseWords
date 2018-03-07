@@ -15,8 +15,8 @@ namespace ReverseWords
             Console.WriteLine("Hello from GitHub");
         }
         //add two numbers
-        static int addition (int a, int b){
-            return a + b 
+        static int Addition (int a, int b) {
+            return a + b; 
         }
             
     }
